@@ -3,3 +3,7 @@ for first time
 
 
 doing second changes test to understanding git tracking
+
+
+
+checking the git rebase command
